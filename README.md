@@ -1,9 +1,9 @@
-# Project 2 - *Tweet Of Iberdo*
+# Project 2 - *TwitterGo*
 
-## Made by **Iberdo**
+## Made by **stevengo**
 
 
-**Tweet Of Iberdo** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**TweeterGo** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **3h** hours spent in total
 
@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] User can **sign in to Twitter** using OAuth login
 - [x]	User can **view tweets from their home timeline**
   - [x] User is displayed the username, name, and body for each tweet
-  - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+  - [x] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "13"
 - [x] User can refresh tweets timeline by pulling down to refresh
 
 The following **optional** features are implemented:
